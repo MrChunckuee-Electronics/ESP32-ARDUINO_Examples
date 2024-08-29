@@ -3,7 +3,7 @@
  *          ESP32: Manejo del bluetooth clasico - Blink LED desde una APP 
  *
  *******************************************************************************
- * FileName:        ESP32_ClassicBT_APP_BlinkLED.ino
+ * FileName:        ESP32-DevKitv1_ClassicBT_APP_BlinkLED.ino
  * Processor:       ESP32
  * Complier:        Arduino IDE v2.2.1
  * Author:          Pedro Sánchez (MrChunckuee)
